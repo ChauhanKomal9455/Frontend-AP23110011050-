@@ -2,10 +2,10 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-# About the Project
+## About the Project
 This project is a frontend application designed to showcase:
 
-# A responsive layout.
+## A responsive layout.
 Modular React components.
 Integration of modern tools like Vite for fast development and build processes.
 The project includes sections such as Hero, About Us, Testimonials, and Contact Us.
