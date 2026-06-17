@@ -5,12 +5,12 @@ This template provides a minimal setup to get React working in Vite with HMR and
 # About the Project
 This project is a frontend application designed to showcase:
 
-#A responsive layout.
+# A responsive layout.
 Modular React components.
 Integration of modern tools like Vite for fast development and build processes.
 The project includes sections such as Hero, About Us, Testimonials, and Contact Us.
 
-#Features
+# Features
 Responsive Design: Works seamlessly on all devices.
 Testimonials Section: Positioned dynamically over the hero image.
 Contact Form: Includes fields for name, email, and message with proper alignment.
